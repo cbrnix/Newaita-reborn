@@ -1,0 +1,25 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="13.758332" y1="-206.53334" x2="3.175" y2="-206.53334" gradientTransform="matrix(0.000000000000000058,0.944882,-0.944882,0.000000000000000058,-187.149615,0.00000000000001146)">
+<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.2;"/>
+<stop offset="1" style="stop-color:rgb(100%,100%,100%);stop-opacity:0;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,65.490198%,14.901961%);fill-opacity:0.996078;" d="M 15 4 L 15 12 C 15 12.550781 14.550781 13 14 13 L 2 13 C 1.449219 13 1 12.550781 1 12 L 1 4 C 1 3.449219 1.449219 3 2 3 L 14 3 C 14.550781 3 15 3.449219 15 4 Z M 15 4 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.4;" d="M 2 3 C 1.445312 3 1 3.445312 1 4 L 1 4.25 C 1 3.695312 1.445312 3.25 2 3.25 L 14 3.25 C 14.554688 3.25 15 3.695312 15 4.25 L 15 4 C 15 3.445312 14.554688 3 14 3 Z M 2 3 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0.392157%,0.392157%,0.392157%);fill-opacity:0.4;" d="M 2 13 C 1.445312 13 1 12.554688 1 12 L 1 11.75 C 1 12.304688 1.445312 12.75 2 12.75 L 14 12.75 C 14.554688 12.75 15 12.304688 15 11.75 L 15 12 C 15 12.554688 14.554688 13 14 13 Z M 2 13 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0.392157%,0.392157%,0.392157%);fill-opacity:0.2;" d="M 1 12 L 1 12.375 C 1 12.929688 1.445312 13.375 2 13.375 L 14 13.375 C 14.554688 13.375 15 12.929688 15 12.375 L 15 12 C 15 12.554688 14.554688 13 14 13 L 2 13 C 1.445312 13 1 12.554688 1 12 Z M 1 12 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(38.039216%,38.039216%,38.039216%);fill-opacity:1;" d="M 1 4.5 L 15 4.5 L 15 7 L 1 7 Z M 1 4.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.4;" d="M 1 4.5 L 1 4.625 L 15 4.625 L 15 4.5 Z M 1 4.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 1 7.125 L 1 7 L 15 7 L 15 7.125 Z M 1 7.125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(93.333334%,93.333334%,93.333334%);fill-opacity:1;" d="M 2.25 8.5 L 8.25 8.5 C 8.386719 8.5 8.5 8.613281 8.5 8.75 L 8.5 10.75 C 8.5 10.886719 8.386719 11 8.25 11 L 2.25 11 C 2.113281 11 2 10.886719 2 10.75 L 2 8.75 C 2 8.613281 2.113281 8.5 2.25 8.5 Z M 2.25 8.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 2.25 8.5 C 2.113281 8.5 2 8.613281 2 8.75 L 2 8.875 C 2 8.738281 2.113281 8.625 2.25 8.625 L 8.25 8.625 C 8.386719 8.625 8.5 8.738281 8.5 8.875 L 8.5 8.75 C 8.5 8.613281 8.386719 8.5 8.25 8.5 Z M 2.25 8.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.4;" d="M 2.25 11.125 C 2.113281 11.125 2 11.011719 2 10.875 L 2 10.75 C 2 10.886719 2.113281 11 2.25 11 L 8.25 11 C 8.386719 11 8.5 10.886719 8.5 10.75 L 8.5 10.875 C 8.5 11.011719 8.386719 11.125 8.25 11.125 Z M 2.25 11.125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(93.333334%,93.333334%,93.333334%);fill-opacity:1;" d="M 9.75 8.5 L 13.75 8.5 C 13.886719 8.5 14 8.613281 14 8.75 L 14 10.75 C 14 10.886719 13.886719 11 13.75 11 L 9.75 11 C 9.613281 11 9.5 10.886719 9.5 10.75 L 9.5 8.75 C 9.5 8.613281 9.613281 8.5 9.75 8.5 Z M 9.75 8.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 9.75 8.5 C 9.613281 8.5 9.5 8.613281 9.5 8.75 L 9.5 8.875 C 9.5 8.738281 9.613281 8.625 9.75 8.625 L 13.75 8.625 C 13.886719 8.625 14 8.738281 14 8.875 L 14 8.75 C 14 8.613281 13.886719 8.5 13.75 8.5 Z M 9.75 8.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.4;" d="M 9.75 11.125 C 9.613281 11.125 9.5 11.011719 9.5 10.875 L 9.5 10.75 C 9.5 10.886719 9.613281 11 9.75 11 L 13.75 11 C 13.886719 11 14 10.886719 14 10.75 L 14 10.875 C 14 11.011719 13.886719 11.125 13.75 11.125 Z M 9.75 11.125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 15 4 L 15 12 C 15 12.550781 14.550781 13 14 13 L 2 13 C 1.449219 13 1 12.550781 1 12 L 1 4 C 1 3.449219 1.449219 3 2 3 L 14 3 C 14.550781 3 15 3.449219 15 4 Z M 15 4 "/>
+</g>
+</svg>
