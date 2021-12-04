@@ -1,0 +1,18 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="13.758332" y1="-206.53334" x2="3.175" y2="-206.53334" gradientTransform="matrix(0.000000000000000174,2.834646,-2.834646,0.000000000000000174,-561.448846,0.000000000000114944)">
+<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.2;"/>
+<stop offset="1" style="stop-color:rgb(100%,100%,100%);stop-opacity:0;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(95.686275%,26.274511%,21.176471%);fill-opacity:0.996078;" d="M 45 12 L 45 36 C 45 37.65625 43.65625 39 42 39 L 6 39 C 4.34375 39 3 37.65625 3 36 L 3 12 C 3 10.34375 4.34375 9 6 9 L 42 9 C 43.65625 9 45 10.34375 45 12 Z M 45 12 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(36.078432%,41.960785%,75.294119%);fill-opacity:0.996078;" d="M 19.5 9 L 33 9 C 34.65625 9 36 10.34375 36 12 L 36 36 C 36 37.65625 34.65625 39 33 39 L 19.5 39 C 17.84375 39 16.5 37.65625 16.5 36 L 16.5 12 C 16.5 10.34375 17.84375 9 19.5 9 Z M 19.5 9 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(14.901961%,65.098041%,60.392159%);fill-opacity:0.996078;" d="M 33 9 L 42 9 C 43.65625 9 45 10.34375 45 12 L 45 36 C 45 37.65625 43.65625 39 42 39 L 33 39 C 31.34375 39 30 37.65625 30 36 L 30 12 C 30 10.34375 31.34375 9 33 9 Z M 33 9 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.4;" d="M 6 9 C 4.339844 9 3 10.339844 3 12 L 3 12.75 C 3 11.089844 4.339844 9.75 6 9.75 L 42 9.75 C 43.660156 9.75 45 11.089844 45 12.75 L 45 12 C 45 10.339844 43.660156 9 42 9 Z M 6 9 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0.392157%,0.392157%,0.392157%);fill-opacity:0.4;" d="M 6 39 C 4.339844 39 3 37.660156 3 36 L 3 35.25 C 3 36.910156 4.339844 38.25 6 38.25 L 42 38.25 C 43.660156 38.25 45 36.910156 45 35.25 L 45 36 C 45 37.660156 43.660156 39 42 39 Z M 6 39 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0.392157%,0.392157%,0.392157%);fill-opacity:0.2;" d="M 3 36 L 3 37.125 C 3 38.785156 4.339844 40.125 6 40.125 L 42 40.125 C 43.660156 40.125 45 38.785156 45 37.125 L 45 36 C 45 37.660156 43.660156 39 42 39 L 6 39 C 4.339844 39 3 37.660156 3 36 Z M 3 36 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 45 12 L 45 36 C 45 37.65625 43.65625 39 42 39 L 6 39 C 4.34375 39 3 37.65625 3 36 L 3 12 C 3 10.34375 4.34375 9 6 9 L 42 9 C 43.65625 9 45 10.34375 45 12 Z M 45 12 "/>
+</g>
+</svg>
