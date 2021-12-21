@@ -1,0 +1,26 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="8.466666" y1="-199.125" x2="8.466666" y2="-213.941666" gradientTransform="matrix(2.834646,0,0,2.834646,0.00000419944,609.448851)">
+<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.2;"/>
+<stop offset="1" style="stop-color:rgb(100%,100%,100%);stop-opacity:0;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40.000001%,73.333335%,41.568628%);fill-opacity:1;" d="M 10.5 3 L 37.5 3 C 39.15625 3 40.5 4.34375 40.5 6 L 40.5 42 C 40.5 43.65625 39.15625 45 37.5 45 L 10.5 45 C 8.84375 45 7.5 43.65625 7.5 42 L 7.5 6 C 7.5 4.34375 8.84375 3 10.5 3 Z M 10.5 3 "/>
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(38.039216%,38.039216%,38.039216%);stroke-opacity:1;stroke-dasharray:2.1,2.1;stroke-dashoffset:0.63;stroke-miterlimit:4;" d="M 20 6 L 20 57.5 L 50 57.5 C 51.109375 57.5 52 56.609375 52 55.5 L 52 8 C 52 6.890625 51.109375 6 50 6 Z M 20 6 " transform="matrix(0.75,0,0,0.75,0,0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(26.274511%,62.7451%,27.843139%);fill-opacity:0.996078;" d="M 10.5 3 C 8.839844 3 7.5 4.339844 7.5 6 L 7.5 42 C 7.5 43.660156 8.839844 45 10.5 45 L 13.5 45 L 13.5 3 Z M 10.5 3 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(26.274511%,62.7451%,27.843139%);fill-opacity:1;" d="M 7.5 30 L 13.5 30 L 13.5 33 L 7.5 33 Z M 7.5 30 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(26.274511%,62.7451%,27.843139%);fill-opacity:0.996078;" d="M 7.5 13.5 L 13.5 13.5 L 13.5 16.5 L 7.5 16.5 Z M 7.5 13.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0.784314%,0.784314%,0.784314%);fill-opacity:0.4;" d="M 10.5 44.992188 C 8.839844 44.992188 7.5 43.652344 7.5 41.992188 L 7.5 41.25 C 7.5 42.910156 8.839844 44.25 10.5 44.25 L 37.5 44.25 C 39.160156 44.25 40.5 42.910156 40.5 41.25 L 40.5 41.992188 C 40.5 43.652344 39.160156 44.992188 37.5 44.992188 Z M 10.5 44.992188 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.2;" d="M 7.5 42 L 7.5 43.125 C 7.5 44.785156 8.839844 46.125 10.5 46.125 L 37.5 46.125 C 39.160156 46.125 40.5 44.785156 40.5 43.125 L 40.5 42 C 40.5 43.660156 39.160156 45 37.5 45 L 10.5 45 C 8.839844 45 7.5 43.660156 7.5 42 Z M 7.5 42 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 7.5 16.5 L 13.5 16.5 L 13.5 17.25 L 7.5 17.25 Z M 7.5 16.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(99.215686%,99.215686%,99.215686%);fill-opacity:0.4;" d="M 7.5 13.5 L 13.5 13.5 L 13.5 14.25 L 7.5 14.25 Z M 7.5 13.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 7.5 33 L 13.5 33 L 13.5 33.75 L 7.5 33.75 Z M 7.5 33 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(99.215686%,99.215686%,99.215686%);fill-opacity:0.4;" d="M 7.5 30 L 13.5 30 L 13.5 30.75 L 7.5 30.75 Z M 7.5 30 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(64.705884%,83.92157%,65.490198%);fill-opacity:1;" d="M 31.5 3 L 31.5 28.5 L 33 25.5 L 34.5 28.5 L 34.5 3 Z M 31.5 3 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(99.607843%,99.607843%,99.607843%);fill-opacity:0.4;" d="M 10.5 3 C 8.839844 3 7.5 4.339844 7.5 6 L 7.5 6.742188 C 7.5 5.078125 8.839844 3.742188 10.5 3.742188 L 37.5 3.742188 C 39.160156 3.742188 40.5 5.078125 40.5 6.742188 L 40.5 6 C 40.5 4.339844 39.160156 3 37.5 3 Z M 10.5 3 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 33 25.5 L 31.5 28.5 L 31.5 29.625 L 33 26.625 L 34.5 29.625 L 34.5 28.5 Z M 33 25.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 10.5 3 L 37.5 3 C 39.15625 3 40.5 4.34375 40.5 6 L 40.5 42 C 40.5 43.65625 39.15625 45 37.5 45 L 10.5 45 C 8.84375 45 7.5 43.65625 7.5 42 L 7.5 6 C 7.5 4.34375 8.84375 3 10.5 3 Z M 10.5 3 "/>
+</g>
+</svg>

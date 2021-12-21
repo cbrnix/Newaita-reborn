@@ -1,0 +1,48 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="31.999998" y1="60" x2="31.999998" y2="4" gradientTransform="matrix(0.34375,0,0,0.34375,-0.000000935433,0.00000000000003908)">
+<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.2;"/>
+<stop offset="1" style="stop-color:rgb(100%,100%,100%);stop-opacity:0;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(55.29412%,43.137255%,38.82353%);fill-opacity:1;" d="M 13.75 1.375 L 4.46875 1.375 C 3.898438 1.375 3.4375 1.835938 3.4375 2.40625 L 3.4375 19.59375 C 3.4375 20.164062 3.898438 20.625 4.46875 20.625 L 17.53125 20.625 C 18.101562 20.625 18.5625 20.164062 18.5625 19.59375 L 18.5625 6.1875 Z M 13.75 1.375 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(42.745098%,29.803923%,25.490198%);fill-opacity:0.996078;" d="M 4.125 2.75 L 5.5 2.75 L 5.5 4.125 L 4.125 4.125 Z M 4.125 2.75 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(42.745098%,29.803923%,25.490198%);fill-opacity:1;" d="M 4.125 5.5 L 5.5 5.5 L 5.5 6.875 L 4.125 6.875 Z M 4.125 5.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(42.745098%,29.803923%,25.490198%);fill-opacity:1;" d="M 4.125 8.25 L 5.5 8.25 L 5.5 9.625 L 4.125 9.625 Z M 4.125 8.25 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(42.745098%,29.803923%,25.490198%);fill-opacity:1;" d="M 4.125 11.34375 L 5.5 11.34375 L 5.5 12.71875 L 4.125 12.71875 Z M 4.125 11.34375 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(42.745098%,29.803923%,25.490198%);fill-opacity:1;" d="M 4.125 14.4375 L 5.5 14.4375 L 5.5 15.8125 L 4.125 15.8125 Z M 4.125 14.4375 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(42.745098%,29.803923%,25.490198%);fill-opacity:1;" d="M 4.125 17.1875 L 5.5 17.1875 L 5.5 18.5625 L 4.125 18.5625 Z M 4.125 17.1875 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(42.745098%,29.803923%,25.490198%);fill-opacity:1;" d="M 16.5 8.25 L 17.875 8.25 L 17.875 9.625 L 16.5 9.625 Z M 16.5 8.25 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(42.745098%,29.803923%,25.490198%);fill-opacity:1;" d="M 16.5 11.34375 L 17.875 11.34375 L 17.875 12.71875 L 16.5 12.71875 Z M 16.5 11.34375 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(42.745098%,29.803923%,25.490198%);fill-opacity:1;" d="M 16.5 14.4375 L 17.875 14.4375 L 17.875 15.8125 L 16.5 15.8125 Z M 16.5 14.4375 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(42.745098%,29.803923%,25.490198%);fill-opacity:1;" d="M 16.5 17.1875 L 17.875 17.1875 L 17.875 18.5625 L 16.5 18.5625 Z M 16.5 17.1875 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.4;" d="M 4.125 4.125 L 5.5 4.125 L 5.5 4.46875 L 4.125 4.46875 Z M 4.125 4.125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 4.125 2.75 L 5.5 2.75 L 5.5 3.09375 L 4.125 3.09375 Z M 4.125 2.75 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.4;" d="M 4.125 6.875 L 5.5 6.875 L 5.5 7.21875 L 4.125 7.21875 Z M 4.125 6.875 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 4.125 5.5 L 5.5 5.5 L 5.5 5.84375 L 4.125 5.84375 Z M 4.125 5.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.4;" d="M 4.125 9.625 L 5.5 9.625 L 5.5 9.96875 L 4.125 9.96875 Z M 4.125 9.625 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 4.125 8.25 L 5.5 8.25 L 5.5 8.59375 L 4.125 8.59375 Z M 4.125 8.25 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.4;" d="M 4.125 12.71875 L 5.5 12.71875 L 5.5 13.0625 L 4.125 13.0625 Z M 4.125 12.71875 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 4.125 11.34375 L 5.5 11.34375 L 5.5 11.6875 L 4.125 11.6875 Z M 4.125 11.34375 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.4;" d="M 4.125 15.8125 L 5.5 15.8125 L 5.5 16.15625 L 4.125 16.15625 Z M 4.125 15.8125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 4.125 14.4375 L 5.5 14.4375 L 5.5 14.78125 L 4.125 14.78125 Z M 4.125 14.4375 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.4;" d="M 4.125 18.5625 L 5.5 18.5625 L 5.5 18.90625 L 4.125 18.90625 Z M 4.125 18.5625 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 4.125 17.1875 L 5.5 17.1875 L 5.5 17.53125 L 4.125 17.53125 Z M 4.125 17.1875 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.4;" d="M 16.5 9.625 L 17.875 9.625 L 17.875 9.96875 L 16.5 9.96875 Z M 16.5 9.625 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 16.5 8.25 L 17.875 8.25 L 17.875 8.59375 L 16.5 8.59375 Z M 16.5 8.25 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.4;" d="M 16.5 12.71875 L 17.875 12.71875 L 17.875 13.0625 L 16.5 13.0625 Z M 16.5 12.71875 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 16.5 11.34375 L 17.875 11.34375 L 17.875 11.6875 L 16.5 11.6875 Z M 16.5 11.34375 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.4;" d="M 16.5 15.8125 L 17.875 15.8125 L 17.875 16.15625 L 16.5 16.15625 Z M 16.5 15.8125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 16.5 14.4375 L 17.875 14.4375 L 17.875 14.78125 L 16.5 14.78125 Z M 16.5 14.4375 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.4;" d="M 16.5 18.5625 L 17.875 18.5625 L 17.875 18.90625 L 16.5 18.90625 Z M 16.5 18.5625 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 16.5 17.1875 L 17.875 17.1875 L 17.875 17.53125 L 16.5 17.53125 Z M 16.5 17.1875 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 13.75 5.15625 L 13.75 5.5 C 13.75 6.070312 14.210938 6.53125 14.78125 6.53125 L 18.5625 6.53125 L 18.21875 6.1875 L 14.78125 6.1875 C 14.210938 6.1875 13.75 5.726562 13.75 5.15625 Z M 13.75 5.15625 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(63.137257%,53.333336%,49.803922%);fill-opacity:0.996078;" d="M 18.5625 6.1875 L 13.75 1.375 L 13.75 5.15625 C 13.75 5.726562 14.210938 6.1875 14.78125 6.1875 Z M 18.5625 6.1875 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.4;" d="M 4.46875 1.375 C 3.898438 1.375 3.4375 1.835938 3.4375 2.40625 L 3.4375 2.75 C 3.4375 2.179688 3.898438 1.71875 4.46875 1.71875 L 13.75 1.71875 L 18.5625 6.53125 L 18.5625 6.1875 L 13.75 1.375 Z M 4.46875 1.375 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.2;" d="M 3.4375 19.589844 L 3.4375 20.109375 C 3.4375 20.679688 3.898438 21.140625 4.46875 21.140625 L 17.53125 21.140625 C 18.101562 21.140625 18.5625 20.679688 18.5625 20.109375 L 18.5625 19.589844 C 18.5625 20.160156 18.101562 20.621094 17.53125 20.621094 L 4.46875 20.621094 C 3.898438 20.621094 3.4375 20.160156 3.4375 19.589844 Z M 3.4375 19.589844 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 3.4375 19.292969 L 3.4375 19.59375 C 3.4375 20.164062 3.898438 20.625 4.46875 20.625 L 17.53125 20.625 C 18.101562 20.625 18.5625 20.164062 18.5625 19.59375 L 18.5625 19.292969 C 18.5625 19.863281 18.101562 20.324219 17.53125 20.324219 L 4.46875 20.324219 C 3.898438 20.324219 3.4375 19.863281 3.4375 19.292969 Z M 3.4375 19.292969 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 13.75 1.375 L 4.46875 1.375 C 3.898438 1.375 3.4375 1.835938 3.4375 2.40625 L 3.4375 19.59375 C 3.4375 20.164062 3.898438 20.625 4.46875 20.625 L 17.53125 20.625 C 18.101562 20.625 18.5625 20.164062 18.5625 19.59375 L 18.5625 6.1875 Z M 13.75 1.375 "/>
+</g>
+</svg>
