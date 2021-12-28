@@ -8,6 +8,10 @@ Remaster Newaita icon theme
 After downloading/extracting, move the `Newaita-reborn` and `Newaita-reborn-Dark` folders to `/usr/share/icons` if you want them to be visible for all users.  
 If you want them to be visible only to your user, move them to `~/.icons` (GTK-based distros) or `~/.local/share/icons` (KDE-based distros).
 
+## For Arch users:
+yay newaita-reborn-icons-git
+Thanks to Cahian Freire (https://github.com/cahian)
+
 ## Support
 Even a small donation boosts motivation :) 
 
