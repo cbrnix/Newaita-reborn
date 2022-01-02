@@ -1,0 +1,27 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="31.999998" y1="60" x2="31.999998" y2="4" gradientTransform="matrix(0.375,0,0,0.375,0,0.000000000000042633)">
+<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.2;"/>
+<stop offset="1" style="stop-color:rgb(100%,100%,100%);stop-opacity:0;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(95.686275%,26.274511%,21.176471%);fill-opacity:1;" d="M 12 1.5 C 7.429688 1.5 3.75 5.179688 3.75 9.75 C 3.75 15 7.5 15.75 9 18.75 L 15 18.75 C 16.5 15.75 20.25 15 20.25 9.75 C 20.25 5.179688 16.570312 1.5 12 1.5 Z M 12 1.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(55.29412%,43.137255%,38.82353%);fill-opacity:1;" d="M 9 20.25 L 9 21 C 9 21.832031 9.667969 22.5 10.5 22.5 L 13.5 22.5 C 14.332031 22.5 15 21.832031 15 21 L 15 20.25 Z M 9 20.25 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(74.117649%,74.117649%,74.117649%);fill-opacity:1;" d="M 9 18.75 L 9.75 18.75 L 9.75 20.25 L 9 20.25 Z M 9 18.75 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(74.117649%,74.117649%,74.117649%);fill-opacity:1;" d="M 14.25 18.75 L 15 18.75 L 15 20.25 L 14.25 20.25 Z M 14.25 18.75 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(74.117649%,74.117649%,74.117649%);fill-opacity:1;" d="M 11.625 18.75 L 12.375 18.75 L 12.375 20.25 L 11.625 20.25 Z M 11.625 18.75 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(93.333334%,93.333334%,93.333334%);fill-opacity:1;" d="M 12 1.5 C 15.835938 6.675781 12.894531 11.183594 12.75 18.75 L 13.5 18.75 C 21 9.75 20.25 5.25 12 1.5 Z M 12 1.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.4;" d="M 12 1.5 C 7.429688 1.5 3.75 5.179688 3.75 9.75 C 3.75 9.800781 3.753906 9.847656 3.753906 9.898438 C 3.871094 5.433594 7.503906 1.875 12 1.875 C 16.496094 1.875 20.128906 5.433594 20.246094 9.898438 C 20.246094 9.847656 20.25 9.800781 20.25 9.75 C 20.25 5.179688 16.570312 1.5 12 1.5 Z M 12 1.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(93.333334%,93.333334%,93.333334%);fill-opacity:1;" d="M 12 1.5 C 4.199219 8.085938 8.488281 11.84375 10.5 18.75 L 9.75 18.75 C 2.25 9.75 3.75 5.25 12 1.5 Z M 12 1.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 3.753906 9.625 C 3.753906 9.667969 3.75 9.707031 3.75 9.75 C 3.75 15 7.5 15.75 9 18.75 L 15 18.75 C 16.5 15.75 20.25 15 20.25 9.75 C 20.25 9.707031 20.246094 9.667969 20.246094 9.625 C 20.128906 14.648438 16.476562 15.421875 15 18.375 L 9 18.375 C 7.523438 15.421875 3.871094 14.648438 3.753906 9.625 Z M 3.753906 9.625 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 9 20.625 L 9 21 C 9 21.832031 9.667969 22.5 10.5 22.5 L 13.5 22.5 C 14.332031 22.5 15 21.832031 15 21 L 15 20.625 C 15 21.457031 14.332031 22.125 13.5 22.125 L 10.5 22.125 C 9.667969 22.125 9 21.457031 9 20.625 Z M 9 20.625 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.4;" d="M 9 20.25 L 9 20.625 L 15 20.625 L 15 20.25 Z M 9 20.25 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 9 18.75 L 9.75 18.75 L 9.75 19.125 L 9 19.125 Z M 9 18.75 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 11.625 18.75 L 12.375 18.75 L 12.375 19.125 L 11.625 19.125 Z M 11.625 18.75 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 14.25 18.75 L 15 18.75 L 15 19.125 L 14.25 19.125 Z M 14.25 18.75 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.2;" d="M 9 21 L 9 21.5625 C 9 22.394531 9.667969 23.0625 10.5 23.0625 L 13.5 23.0625 C 14.332031 23.0625 15 22.394531 15 21.5625 L 15 21 C 15 21.832031 14.332031 22.5 13.5 22.5 L 10.5 22.5 C 9.667969 22.5 9 21.832031 9 21 Z M 9 21 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 12 1.5 C 7.429688 1.5 3.75 5.179688 3.75 9.75 C 3.75 15 7.5 15.75 9 18.75 L 9 21 C 9 21.832031 9.667969 22.5 10.5 22.5 L 13.5 22.5 C 14.332031 22.5 15 21.832031 15 21 L 15 18.75 C 16.5 15.75 20.25 15 20.25 9.75 C 20.25 5.179688 16.570312 1.5 12 1.5 Z M 9.75 18.75 L 11.625 18.75 L 11.625 20.25 L 9.75 20.25 Z M 12.375 18.75 L 14.25 18.75 L 14.25 20.25 L 12.375 20.25 Z M 12.375 18.75 "/>
+</g>
+</svg>

@@ -1,0 +1,27 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="31.999998" y1="60" x2="31.999998" y2="4" gradientTransform="matrix(0.25,0,0,0.25,0,0)">
+<stop offset="0" style="stop-color:rgb(0%,0%,0%);stop-opacity:0.2;"/>
+<stop offset="1" style="stop-color:rgb(100%,100%,100%);stop-opacity:0;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(95.686275%,26.274511%,21.176471%);fill-opacity:1;" d="M 8 1 C 4.953125 1 2.5 3.453125 2.5 6.5 C 2.5 10 5 10.5 6 12.5 L 10 12.5 C 11 10.5 13.5 10 13.5 6.5 C 13.5 3.453125 11.046875 1 8 1 Z M 8 1 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(55.29412%,43.137255%,38.82353%);fill-opacity:1;" d="M 6 13.5 L 6 14 C 6 14.554688 6.445312 15 7 15 L 9 15 C 9.554688 15 10 14.554688 10 14 L 10 13.5 Z M 6 13.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(74.117649%,74.117649%,74.117649%);fill-opacity:1;" d="M 6 12.5 L 6.5 12.5 L 6.5 13.5 L 6 13.5 Z M 6 12.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(74.117649%,74.117649%,74.117649%);fill-opacity:1;" d="M 9.5 12.5 L 10 12.5 L 10 13.5 L 9.5 13.5 Z M 9.5 12.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(74.117649%,74.117649%,74.117649%);fill-opacity:1;" d="M 7.75 12.5 L 8.25 12.5 L 8.25 13.5 L 7.75 13.5 Z M 7.75 12.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(93.333334%,93.333334%,93.333334%);fill-opacity:1;" d="M 8 1 C 10.558594 4.449219 8.59375 7.457031 8.5 12.5 L 9 12.5 C 14 6.5 13.5 3.5 8 1 Z M 8 1 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.4;" d="M 8 1 C 4.953125 1 2.5 3.453125 2.5 6.5 C 2.5 6.535156 2.503906 6.566406 2.503906 6.597656 C 2.582031 3.621094 5.003906 1.25 8 1.25 C 10.996094 1.25 13.417969 3.621094 13.496094 6.597656 C 13.496094 6.566406 13.5 6.535156 13.5 6.5 C 13.5 3.453125 11.046875 1 8 1 Z M 8 1 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(93.333334%,93.333334%,93.333334%);fill-opacity:1;" d="M 8 1 C 2.796875 5.390625 5.660156 7.894531 7 12.5 L 6.5 12.5 C 1.5 6.5 2.5 3.5 8 1 Z M 8 1 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 2.5 6.417969 C 2.5 6.445312 2.5 6.472656 2.5 6.5 C 2.5 10 5 10.5 6 12.5 L 10 12.5 C 11 10.5 13.5 10 13.5 6.5 C 13.5 6.472656 13.5 6.445312 13.5 6.417969 C 13.417969 9.765625 10.984375 10.28125 10 12.25 L 6 12.25 C 5.015625 10.28125 2.582031 9.765625 2.5 6.417969 Z M 2.5 6.417969 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 6 13.75 L 6 14 C 6 14.554688 6.445312 15 7 15 L 9 15 C 9.554688 15 10 14.554688 10 14 L 10 13.75 C 10 14.304688 9.554688 14.75 9 14.75 L 7 14.75 C 6.445312 14.75 6 14.304688 6 13.75 Z M 6 13.75 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.4;" d="M 6 13.5 L 6 13.75 L 10 13.75 L 10 13.5 Z M 6 13.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 6 12.5 L 6.5 12.5 L 6.5 12.75 L 6 12.75 Z M 6 12.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 7.75 12.5 L 8.25 12.5 L 8.25 12.75 L 7.75 12.75 Z M 7.75 12.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.4;" d="M 9.5 12.5 L 10 12.5 L 10 12.75 L 9.5 12.75 Z M 9.5 12.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.2;" d="M 6 14 L 6 14.375 C 6 14.929688 6.445312 15.375 7 15.375 L 9 15.375 C 9.554688 15.375 10 14.929688 10 14.375 L 10 14 C 10 14.554688 9.554688 15 9 15 L 7 15 C 6.445312 15 6 14.554688 6 14 Z M 6 14 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 8 1 C 4.953125 1 2.5 3.453125 2.5 6.5 C 2.5 10 5 10.5 6 12.5 L 6 14 C 6 14.554688 6.445312 15 7 15 L 9 15 C 9.554688 15 10 14.554688 10 14 L 10 12.5 C 11 10.5 13.5 10 13.5 6.5 C 13.5 3.453125 11.046875 1 8 1 Z M 6.5 12.5 L 7.75 12.5 L 7.75 13.5 L 6.5 13.5 Z M 8.25 12.5 L 9.5 12.5 L 9.5 13.5 L 8.25 13.5 Z M 8.25 12.5 "/>
+</g>
+</svg>
