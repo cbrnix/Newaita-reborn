@@ -1,21 +1,29 @@
-# Newaita-reborn
-Remaster Newaita icon theme 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cbrnix/Newaita-reborn/master/cover.png" alt="preview"/>
-</p>
+<div align="center">
+    <img src="icon.png" width="200" height="200" />
+    <h1>Newaita reborn</h1>
+    <p>Remaster Newaita icon theme. Refreshed and made cleaner.</p>
+    <img src="cover.png" />
+</div>
 
-## Installation:
-After downloading/extracting, move the `Newaita-reborn` and `Newaita-reborn-Dark` folders to `/usr/share/icons` if you want them to be visible for all users.  
-If you want them to be visible only to your user, move them to `~/.icons` (GTK-based distros) or `~/.local/share/icons` (KDE-based distros).
+## Installation
 
-## For Arch users:
-yay newaita-reborn-icons-git
+After downloading and extracting, move all the `Newaita-reborn` and `Newaita-reborn-dark` folders to:
+- `/usr/share/icons` if you want them to be visible for all users.
+- `~/.icons` on **GTK** or `~/.local/share/icons` on **KDE** if you want them to be visible only to your user.
 
-Thanks to Cahian Freire (https://github.com/cahian)
+### For Arch Linux users
+
+```shell
+# With Yay or another AUR helper of your choice
+yay -S newaita-reborn-icons-git
+```
+
+Thanks to [Cahian Freire](https://github.com/cahian)
 
 ## Support
-Even a small donation boosts motivation :) 
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/cbrnix)  OR   [![Юmoney](https://i.imgur.com/KrkyEbB.png)](https://yoomoney.ru/to/41001796418567)
+Even a small donation boosts motivation :)
 
-
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/cbrnix)
+or
+[![Юmoney](https://i.imgur.com/KrkyEbB.png)](https://yoomoney.ru/to/41001796418567)
