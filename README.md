@@ -24,6 +24,5 @@ Thanks to [Cahian Freire](https://github.com/cahian)
 
 Even a small donation boosts motivation :)
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/cbrnix)
-or
+
 [![Юmoney](https://i.imgur.com/KrkyEbB.png)](https://yoomoney.ru/to/41001796418567)
