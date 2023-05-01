@@ -7,10 +7,18 @@
 
 ## Installation
 
-After downloading and extracting, move all the `Newaita-reborn` and `Newaita-reborn-dark` folders to:
-- `/usr/share/icons` if you want them to be visible for all users.
-- `~/.icons` on **GTK** or `~/.local/share/icons` on **KDE** if you want them to be visible only to your user.
-
+### User installation
+Clone the repository into `~/.local/share/icons/newaita-reborn`:
+```
+mkdir -p ~/.local/share/icons/newaita-reborn
+git clone https://github.com/cbrnix/newaita-reborn.git ~/.local/share/icons/newaita-reborn
+```
+### System-wide installation
+Clone the repository into `/usr/share/icons`
+```
+sudo mkdir -p /usr/share/icons/newaita-reborn
+git clone https://github.com/cbrnix/newaita-reborn.git /usr/share/icons/newaita-reborn
+```
 ### For Arch Linux users
 
 ```shell
